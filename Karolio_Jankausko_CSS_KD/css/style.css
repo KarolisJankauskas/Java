@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Flamenco:wght@300;400&family=Shippori+Antique+B1&family=Stylish&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Flamenco:wght@300;400&family=PT+Mono&family=Shippori+Antique+B1&family=Stylish&display=swap');
+
+main {
+    background-image: url(/images/crane.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 30rem;
+    opacity: 60%;
+}
+
+
+ul {
+    list-style: none;
+}
+
+.color,
+h3,
+#logo,
+#home {
+    color: orange;
+}
+
+#logo {
+    font-size: 200%;
+}
+
+p:hover {
+    background-color: #e2cea8;
+
+}
+
+h1 {
+    font-family: "PT Mono", monospace;
+    font-weight: 400;
+    font-style: normal;
+}
+
+#cargo {
+    width: 80%;
+}
+
+p {
+    font-family: "Shippori Antique B1", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
